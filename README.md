@@ -1,2 +1,1 @@
-# dev7am
-new devops
+"this is demo repository created"
