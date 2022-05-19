@@ -1,0 +1,7 @@
+class demo
+{
+public stastic void main()
+{
+system.out.println("good day")
+}
+}
